@@ -26,7 +26,7 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
     
     /start -> Welcome to the bot
     /help -> This message
-    /content -> Simplilearn offers various courses free of charge through Skillup by Simplilearn
+    /content -> CS Courses Offers
     /Python -> The first video from the Python Playlist
     /SQL -> The first video from the SQL Playlist
     /Java -> The first video from the Java Playlist
